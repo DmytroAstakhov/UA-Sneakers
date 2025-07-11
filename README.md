@@ -1,6 +1,10 @@
 # vue-ua-sneakers
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue 3 in Vite.
+
+## Important
+
+Use VPN if you are from Ukraine to get all data from the backend.
 
 ## Recommended IDE Setup
 
@@ -13,7 +17,7 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
-[Vue.js](https://vuejs.org/) + [tailwind](https://tailwindcss.com/)
+[Vue.js](https://vuejs.org/) + [tailwind](https://tailwindcss.com/) + [axios](https://axios-http.com/)
 
 ```sh
 npm install
