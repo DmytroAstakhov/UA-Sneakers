@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <header class="flex justify-between items-center border-b border-slate-300 px-10 py-8">
+  <header class="flex justify-between items-center border-b border-slate-200 px-10 py-8">
     <a href="#" class="flex gap-4 items-center">
       <svg
         width="40"
